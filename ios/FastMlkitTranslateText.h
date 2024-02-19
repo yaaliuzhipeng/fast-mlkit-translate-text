@@ -1,6 +1,6 @@
 
 #ifdef RCT_NEW_ARCH_ENABLED
-#import "RNFastMlkitTranslateTextSpec.h"
+#import <RNFastMlkitTranslateTextSpec/RNFastMlkitTranslateTextSpec.h>
 
 @interface FastMlkitTranslateText : NSObject <NativeFastMlkitTranslateTextSpec>
 #else

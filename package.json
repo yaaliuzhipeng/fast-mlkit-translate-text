@@ -1,12 +1,8 @@
 {
   "name": "fast-mlkit-translate-text",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Goolgle MLKit Translate Text Module",
-  "main": "lib/commonjs/index",
-  "module": "lib/module/index",
-  "types": "lib/typescript/src/index.d.ts",
-  "react-native": "src/index",
-  "source": "src/index",
+  "main": "index.ts",
   "files": [
     "src",
     "lib",
